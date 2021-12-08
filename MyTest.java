@@ -5,4 +5,7 @@ restoring the data from local
 //Added new line here
 //Java file
 //testing git features
+
 Changed locally after clone
+//Changed in Remote after clone
+
