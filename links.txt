@@ -1,0 +1,2 @@
+https://marklodato.github.io/visual-git-guide/index-en.html#diff - Visual Git guide
+http://onlywei.github.io/explain-git-with-d3/#commit   explain Git With D3
